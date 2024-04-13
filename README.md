@@ -23,9 +23,9 @@ Enhance your server's shop interactions with this Ox Inventory configuration fil
 
 ## Additional Information
 
-- **Code Accessibility**: Yes, the code is open for modifications and contributions.
-- **Subscription Requirement**: No, this resource is provided for free.
 - **Support**: There is no official support provided. Community support may be available through GitHub issues.
+- **CFX Forumpost**: Waiting for review
+- **My Discord**: https://discord.gg/X432Fncar9
 
 ## Contributing
 
